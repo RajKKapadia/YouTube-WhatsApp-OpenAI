@@ -6,7 +6,7 @@ Hi everyone, this is repository for my personal demo project on connecting Twili
 * text messgaes
 
 ### Youtube
-I have recorded a quick video on the setup of this chat-bot, in case you want to replicate the work, you can watch it [here]().
+I have recorded a quick video on the setup of this chat-bot, in case you want to replicate the work, you can watch it [here](https://youtu.be/uxY3__IkozM).
 
 ### What you will need
 There are couple of things that you need before you get started following this repository.
