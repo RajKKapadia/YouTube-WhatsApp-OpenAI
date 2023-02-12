@@ -22,7 +22,9 @@ To replicate the work of this repository and run it locally, you need to follow 
     TWILIO_ACCOUNT_SID=YOUR ACCOUNT SID
     TWILIO_AUTH_TOKEN=YOUR AUTH TOKEN
     OPENAI_API_KEY=YOUR OPENAI API KEY
+    FROM=whatsapp:+14155238886
     ```
+This FROM variable in the .env file is same for the Twilio WhatsApp Sandbox.
 * create a virtual environment and activate it before installing the packages
 * install all the required dependencies from the `requirements.txt` file
 ```python
